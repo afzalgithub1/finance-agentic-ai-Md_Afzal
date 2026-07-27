@@ -1,6 +1,6 @@
 # Agentic AI For Finance
 
-An AI-powered multi-agent platform for corporate financial analysis, annual report understanding, company fundamentals, stock prediction, and company comparison using LLMs, Retrieval-Augmented Generation (RAG), and Machine Learning.
+An AI-powered agentic AI platform for corporate financial analysis, annual report understanding, company fundamentals, stock prediction, and company comparison using LLMs, Retrieval-Augmented Generation (RAG), and Machine Learning.
 
 Built with **Python, LangChain, Ollama, ChromaDB, Streamlit, XGBoost, and Joblib**.
 
@@ -8,7 +8,7 @@ Built with **Python, LangChain, Ollama, ChromaDB, Streamlit, XGBoost, and Joblib
 
 # 🚀 Overview
 
-Multi-Agent Finance AI enables users to interact with financial data using natural language.
+Agentic AI platform enables users to interact with financial data using natural language.
 
 Instead of relying on a single monolithic workflow, the application employs specialized AI tools that independently handle different financial tasks. A LangChain Tool Calling Agent analyzes the user's query and automatically invokes the appropriate tool for annual report analysis, company fundamentals, stock prediction, or company comparison.
 
@@ -18,7 +18,7 @@ The application combines Retrieval-Augmented Generation (RAG), Large Language Mo
 
 ## 📌 Project Highlights
 
-- Designed a modular Multi-Agent AI architecture for financial analysis.
+- Designed a modular agentic AI architecture for financial analysis.
 - Implemented Retrieval-Augmented Generation (RAG) using LangChain and ChromaDB.
 - Built specialized AI agents for annual report analysis, financial fundamentals, company comparison, and stock prediction.
 - Developed a context-aware conversational assistant capable of handling follow-up questions.
@@ -176,7 +176,7 @@ Ollama (Llama 3.1)    │
 - LangChain
 - Large Language Models (LLMs)
 - Agentic AI
-- Multi-Agent Systems
+- Agentic Systems
 - Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
 - Ollama
@@ -264,7 +264,7 @@ Ollama (Llama 3.1)    │
 # ⚙️ Installation
 
 ```bash
-git clone https://github.com/afzalgithub1/multi-agent-finance-ai-Md_Afzal.git
+git clone https://github.com/afzalgithub1/finance-agentic-ai-Md_Afzal.git
 
 cd <repository-name>
 
@@ -317,7 +317,7 @@ streamlit run streamlit_app.py
 
 # 🎯 Core Concepts Demonstrated
 
-- Multi-Agent AI
+- Agentic AI
 - Tool Calling Agents
 - Retrieval-Augmented Generation (RAG)
 - Vector Search
