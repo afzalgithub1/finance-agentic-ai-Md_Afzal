@@ -1,0 +1,26 @@
+{
+    "model": "XGBoost",
+    "version": "1.0",
+    "trained_on": "2026-07-22 16:14:37",
+    "companies": 18,
+    "training_rows": 17522,
+    "testing_rows": 4392,
+    "features": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume",
+        "Close_Lag_1",
+        "Close_Lag_2",
+        "Close_Lag_3",
+        "SMA_5",
+        "SMA_10",
+        "SMA_20",
+        "EMA_10",
+        "RSI_14",
+        "Volume_Mean_5",
+        "Volatility_10",
+        "Company_Code"
+    ]
+}
