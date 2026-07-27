@@ -1,6 +1,4 @@
-# finance-agentic-ai-Md_Afzal
-# multi-agent-finance-ai-Md_Afzal
-# 📈 Multi-Agent Finance AI
+# Agentic AI For Finance
 
 An AI-powered multi-agent platform for corporate financial analysis, annual report understanding, company fundamentals, stock prediction, and company comparison using LLMs, Retrieval-Augmented Generation (RAG), and Machine Learning.
 
